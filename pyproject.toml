@@ -1,5 +1,5 @@
 [project]
-name = "Deep Convolutional Generative Adversarial Network - MNIST"
+name = "DCGAN"
 version = "0.0.0"
 description = ""
 readme = "README.md"
