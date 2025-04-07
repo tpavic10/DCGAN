@@ -1,6 +1,6 @@
 # DCGAN on MNIST
 
-This project implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** using **PyTorch** to generate handwritten digit images based on the MNIST dataset. The training is designed to run on **Google Colab** with data stored on **Google Drive**.
+This project implements a **Deep Convolutional Generative Adversarial Network (DCGAN)** using **PyTorch** to generate handwritten digit images based on the MNIST dataset.
 
 
 ## Development setup
